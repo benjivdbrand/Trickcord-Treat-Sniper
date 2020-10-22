@@ -26,8 +26,8 @@ const defaultCfg = {
 	// Public settings
 	'token': null,
 
-	'serverIds': [],
-	'channelIds': [],
+	'serverIds': ['180713535779635200'],
+	'channelIds': ['218364966195953664'],
 
 	// Spam settings.
 	'spam': false,
